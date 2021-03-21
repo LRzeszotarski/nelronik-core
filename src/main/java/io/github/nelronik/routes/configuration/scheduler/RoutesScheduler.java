@@ -1,6 +1,6 @@
-package io.github.lrzeszotarski.aggregatorapp.routes.configuration.scheduler;
+package io.github.nelronik.routes.configuration.scheduler;
 
-import io.github.lrzeszotarski.aggregatorapp.routes.Route;
+import io.github.nelronik.routes.Route;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;

@@ -8,7 +8,7 @@
         <version>2.5.0-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.github.lrzeszotarski</groupId>
+    <groupId>io.github.nelronik</groupId>
     <artifactId>nelronik-core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>nelronik-core</name>

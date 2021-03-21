@@ -1,6 +1,6 @@
-package io.github.lrzeszotarski.aggregatorapp.routes.configuration.scheduler
+package io.github.nelronik.routes.configuration.scheduler
 
-import io.github.lrzeszotarski.aggregatorapp.routes.Route
+import io.github.nelronik.routes.Route
 import spock.lang.Specification
 
 class RoutesSchedulerTest extends Specification {

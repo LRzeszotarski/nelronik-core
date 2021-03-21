@@ -1,4 +1,4 @@
-package io.github.lrzeszotarski.aggregatorapp.routes;
+package io.github.nelronik.routes;
 
 public interface Dispatcher<T> {
     void dispatch(T value);

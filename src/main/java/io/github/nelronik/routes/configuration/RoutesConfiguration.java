@@ -1,6 +1,6 @@
-package io.github.lrzeszotarski.aggregatorapp.routes.configuration;
+package io.github.nelronik.routes.configuration;
 
-import io.github.lrzeszotarski.aggregatorapp.routes.*;
+import io.github.nelronik.routes.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

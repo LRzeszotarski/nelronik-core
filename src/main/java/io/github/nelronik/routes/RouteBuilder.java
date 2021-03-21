@@ -1,4 +1,4 @@
-package io.github.lrzeszotarski.aggregatorapp.routes;
+package io.github.nelronik.routes;
 
 import java.util.List;
 import java.util.stream.Stream;
